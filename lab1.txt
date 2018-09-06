@@ -1,0 +1,24 @@
+step1- type pwd
+
+step2- mkdir rasib
+
+step3- ls -option 
+
+step4- man ls(to open options list)
+
+step5- subl(sublime){to open sublime text} 
+
+step6-  typing python program  in sublime text
+
+step8-  click save as ( extension.py ex:first1.py)
+
+step7-  then go to your directory
+
+step- then type pwd again
+
+step9- type cd directory
+
+step10- type python file name.py
+
+step11- for typing ur notes type {gedit lab1.txt}
+
