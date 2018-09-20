@@ -1,0 +1,53 @@
+
+>>> a=45 
+>>> b=99
+'>>> c=a%b
+>>> print(c)
+45
+
+>>> a=0
+>>> b=9
+>>> c=a+b
+>>> 
+>>> print (c)
+9
+
+>>> a=99999999999
+>>> b=888
+>>> c=a*b
+>>> print (c)
+88799999999112
+
+>>> a=12
+>>> b=22
+>>> a>b
+False
+
+>>> a=1
+>>> b=2
+>>> c=a-b
+>>> print(c)
+-1
+
+enter value of a4
+a is even
+
+enter value of a3
+enter value of b7
+7 is greater than 3
+
+
+>>> a=4
+>>> b=2
+>>> c=a/b
+>>> print(c)
+2
+
+enter the value a-1
+a is negative
+
+enter the value of a100
+A+
+
+
+
