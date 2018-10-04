@@ -1,0 +1,14 @@
+enter 0 to quit ,or any other number7
+You entered: 7
+enter 0 to quit ,or any other number8
+You entered: 8
+enter 0 to quit ,or any other number9
+You entered: 9
+enter 0 to quit ,or any other number8
+You entered: 8
+enter 0 to quit ,or any other number0
+bye
+
+
+
+
